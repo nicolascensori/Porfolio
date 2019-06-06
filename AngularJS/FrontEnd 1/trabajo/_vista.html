@@ -1,0 +1,71 @@
+﻿<div class="container" data-ng-controller="parcialCtrl">
+	<div class="row">
+		<!-- ============================================ PEDIDOS ====================================================== -->
+		<div class="col-md-12">
+			<h3></h3>
+			<div class="box-body table-responsive no-padding">
+				<table class="table table-hover table-striped">
+					<thead>
+						<tr>
+							<th>Cliente</th>
+							<th>Domicilio</th>
+							<th>Items</th>
+							<th>Estado</th>
+							<th>Acciones</th>
+							<th>Cambio de estado</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr data-ng-repeat="pedido in pedidos">
+							<td>{{pedido.cliente}}</td>
+							<td>{{pedido.domicilio}}</td>
+							<td>
+								<ul data-ng-repeat="item in pedido.items">
+									<li>{{item.detalle}}</li>
+								</ul>
+							</td>
+							<td>
+								<span class="label label-warning" data-ng-show="{{pedido.estadoPendiente}}">Pendiente</span>
+								<span class="label label-success" data-ng-show="{{pedido.estadoEntregado}}">Entregado</span>
+								<span class="label label-danger" data-ng-show="{{pedido.estadoCancelado}}">Cancelado</span>
+							</td>
+							<td>
+								<button type="button" class="btn btn-xs btn-default" data-ng-click="editarPedido(pedido)">Editar</button>
+								<button type="button" class="btn btn-xs btn-danger" data-ng-click="borrarPedido(pedido)">Borrar</button>
+							</td>
+							<td>
+								<button type="button" class="btn btn-xs btn-success" data-ng-show="!pedido.estadoEntregado" data-ng-click="pasarEntregado(pedido)">Pasar a entregado</button>
+								<button type="button" class="btn btn-xs btn-danger" data-ng-show="!pedido.estadoCancelado" data-ng-click="pasarCancelado(pedido)">Pasar a cancelado</button>
+								<button type="button" class="btn btn-xs btn-warning" data-ng-show="!pedido.estadoPendiente" data-ng-click="pasarPendiente(pedido)">Pasar a pendiente</button>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</div>
+	<hr>
+	<div class="row">
+		<div class="col-md-12">
+			<!-- ============================================ FORMULARIO PEDIDOS ====================================================== -->
+			<h4>Pedido:</h4>
+			<form>
+				<div class="form-group">
+					<label for="cliente">Cliente:</label>
+					<input class="form-control" id="cliente" placeholder="Cliente" data-ng-model="nuevoPedido.cliente" required>
+				</div>
+				<div class="form-group">
+					<label for="domicilio">Domicilio:</label>
+					<input class="form-control" id="domicilio" placeholder="Domicilio" data-ng-model="nuevoPedido.domicilio" required>
+				</div>
+				<div class="form-group">
+					<label for="items">Items:</label> <small>(CTRL + clic para selección múltiple)</small>
+					<select data-ng-model="nuevoPedido.items" class="form-control" id="items" multiple="multiple" required data-ng-options="item as item.detalle for item in items track by item.detalle">					
+					</select>
+				</div>
+				<button type="button" class="btn btn-primary" data-ng-click="guardarPedido()">Guardar</button>&nbsp;
+				<button type="button" class="btn btn-default" data-ng-click="descartarPedido()">Descartar</button>
+			</form>
+		</div>
+	</div>
+</div>

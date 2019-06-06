@@ -1,0 +1,22 @@
+F:\Descargas\Censori - Recuperatorio\Censori - Recuperatorio\bin\Debug\Censori - Recuperatorio.exe.config
+F:\Descargas\Censori - Recuperatorio\Censori - Recuperatorio\bin\Debug\Censori - Recuperatorio.exe
+F:\Descargas\Censori - Recuperatorio\Censori - Recuperatorio\bin\Debug\Censori - Recuperatorio.pdb
+F:\Descargas\Censori - Recuperatorio\Censori - Recuperatorio\obj\Debug\Censori - Recuperatorio.csprojAssemblyReference.cache
+F:\Descargas\Censori - Recuperatorio\Censori - Recuperatorio\obj\Debug\Censori___Recuperatorio.Form1.resources
+F:\Descargas\Censori - Recuperatorio\Censori - Recuperatorio\obj\Debug\Censori___Recuperatorio.Form2.resources
+F:\Descargas\Censori - Recuperatorio\Censori - Recuperatorio\obj\Debug\Censori___Recuperatorio.Properties.Resources.resources
+F:\Descargas\Censori - Recuperatorio\Censori - Recuperatorio\obj\Debug\Censori - Recuperatorio.csproj.GenerateResource.cache
+F:\Descargas\Censori - Recuperatorio\Censori - Recuperatorio\obj\Debug\Censori - Recuperatorio.csproj.CoreCompileInputs.cache
+F:\Descargas\Censori - Recuperatorio\Censori - Recuperatorio\obj\Debug\Censori - Recuperatorio.exe
+F:\Descargas\Censori - Recuperatorio\Censori - Recuperatorio\obj\Debug\Censori - Recuperatorio.pdb
+F:\Documentos\Educación\UCES\3° cuatrimestre\4 - Programación GUI\Parciales 2018\Recuperatorio 2do parcial\Censori - Recuperatorio\bin\Debug\Censori - Recuperatorio.exe.config
+F:\Documentos\Educación\UCES\3° cuatrimestre\4 - Programación GUI\Parciales 2018\Recuperatorio 2do parcial\Censori - Recuperatorio\bin\Debug\Censori - Recuperatorio.exe
+F:\Documentos\Educación\UCES\3° cuatrimestre\4 - Programación GUI\Parciales 2018\Recuperatorio 2do parcial\Censori - Recuperatorio\bin\Debug\Censori - Recuperatorio.pdb
+F:\Documentos\Educación\UCES\3° cuatrimestre\4 - Programación GUI\Parciales 2018\Recuperatorio 2do parcial\Censori - Recuperatorio\obj\Debug\Censori - Recuperatorio.csprojAssemblyReference.cache
+F:\Documentos\Educación\UCES\3° cuatrimestre\4 - Programación GUI\Parciales 2018\Recuperatorio 2do parcial\Censori - Recuperatorio\obj\Debug\Censori___Recuperatorio.Form1.resources
+F:\Documentos\Educación\UCES\3° cuatrimestre\4 - Programación GUI\Parciales 2018\Recuperatorio 2do parcial\Censori - Recuperatorio\obj\Debug\Censori___Recuperatorio.Form2.resources
+F:\Documentos\Educación\UCES\3° cuatrimestre\4 - Programación GUI\Parciales 2018\Recuperatorio 2do parcial\Censori - Recuperatorio\obj\Debug\Censori___Recuperatorio.Properties.Resources.resources
+F:\Documentos\Educación\UCES\3° cuatrimestre\4 - Programación GUI\Parciales 2018\Recuperatorio 2do parcial\Censori - Recuperatorio\obj\Debug\Censori - Recuperatorio.csproj.GenerateResource.cache
+F:\Documentos\Educación\UCES\3° cuatrimestre\4 - Programación GUI\Parciales 2018\Recuperatorio 2do parcial\Censori - Recuperatorio\obj\Debug\Censori - Recuperatorio.csproj.CoreCompileInputs.cache
+F:\Documentos\Educación\UCES\3° cuatrimestre\4 - Programación GUI\Parciales 2018\Recuperatorio 2do parcial\Censori - Recuperatorio\obj\Debug\Censori - Recuperatorio.exe
+F:\Documentos\Educación\UCES\3° cuatrimestre\4 - Programación GUI\Parciales 2018\Recuperatorio 2do parcial\Censori - Recuperatorio\obj\Debug\Censori - Recuperatorio.pdb

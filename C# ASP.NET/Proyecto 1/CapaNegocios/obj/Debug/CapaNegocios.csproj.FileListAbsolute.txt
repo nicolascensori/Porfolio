@@ -1,0 +1,9 @@
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaNegocios\bin\Debug\CapaNegocios.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaNegocios\bin\Debug\CapaNegocios.pdb
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaNegocios\bin\Debug\CapaDatos.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaNegocios\bin\Debug\CapaDatos.pdb
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaNegocios\obj\Debug\CapaNegocios.csprojAssemblyReference.cache
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaNegocios\obj\Debug\CapaNegocios.csproj.CopyComplete
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaNegocios\obj\Debug\CapaNegocios.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaNegocios\obj\Debug\CapaNegocios.pdb

@@ -1,0 +1,6 @@
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaDatos\bin\Debug\CapaDatos.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaDatos\obj\Debug\CapaDatos.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\Muebleria\CapaDatos\obj\Debug\CapaDatos.pdb
