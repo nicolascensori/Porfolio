@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "IndexAdmin";
+}
+
+<h2 class="text-center" style="margin-bottom:2%">Panel de Administrador</h2>
+<div>
+    <label class="">Seleccione una tabla: </label><br />
+    <input type="radio" name="tabla" value="usuarios" ng-model="place" /> Usuarios <br />
+    <input type="radio" name="tabla" value="productos" ng-model="place" /> Productos <br />
+    <input type="radio" name="tabla" value="compras" ng-model="place" /> Compras <br />
+</div>
+
+<div class="col-md-12" data-ng-show="place === 'usuarios'">
+    <h4>Lista de usuarios</h4>
+    @{
+        Html.RenderAction("IndexParcial", "Usuarios");
+    }
+
+</div>
+<div class="col-md-12" data-ng-show="place === 'productos'">
+    <h4>Lista de productos</h4>
+    @{
+        Html.RenderAction("IndexParcial", "Productos");
+    }
+</div>
+<div class="col-md-12" data-ng-show="place === 'compras'">
+    <h4>Lista de compras</h4>
+    @{
+        Html.RenderAction("IndexParcial", "Compras");
+    }
+</div>
+

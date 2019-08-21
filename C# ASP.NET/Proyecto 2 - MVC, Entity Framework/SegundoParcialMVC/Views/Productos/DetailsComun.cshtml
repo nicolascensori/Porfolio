@@ -1,0 +1,78 @@
+﻿@model SegundoParcialMVC.Models.Producto
+
+@{
+    ViewBag.Title = "Detalles del producto";
+}
+
+<h2>Detalles del producto</h2>
+@using (Html.BeginForm("Comprar", "Productos"))
+{
+
+    <div>
+
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                Nombre
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.nombre)
+            </dd>
+
+            <dt>
+                Color
+            </dt>
+
+            <dd>
+                <input type="color" value="@Model.color" disabled="disabled" />
+            </dd>
+
+            <dt>
+                Precio
+            </dt>
+
+            <dd>
+                $@Html.DisplayFor(model => model.precio)
+            </dd>
+
+            <dt>
+                Cantidad
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.cantidad)
+            </dd>
+
+            <dt>
+                Cantidad a comprar
+            </dt>
+            <dd>
+                @if (Model.cantidad > 0)
+                {
+                    <select name="cantidad">
+                        @for (int i = 1; i <= Model.cantidad; i++)
+                        {
+                            <option value="@i">@i</option>
+                        }
+                    </select>
+                }
+            </dd>
+        </dl>
+    </div>
+    <p>
+        @if (Model.cantidad > 0)
+        {
+            <button type="submit" name="id" class="btn btn-sm btn-outline-success my-2 my-sm-0" onclick="notificar()" value="@Model.id">Comprar</button>
+            @*@Html.ActionLink("Comprar", "Comprar", new { id = Model.id }, new { @class = "btn btn-sm btn-outline-success my-2 my-sm-0", @onclick = "notificar()" });*@
+            <br />
+            <br />
+        }
+        @Html.ActionLink("Volver al panel de productos", "Index")
+    </p>
+    }
+    <script>
+        function notificar() {
+            alert("La compra se ha realizado con éxito");
+        }
+    </script>

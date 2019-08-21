@@ -1,0 +1,80 @@
+﻿@model IEnumerable<SegundoParcialMVC.Models.Producto>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Lista de productos</h2>
+
+@Html.ActionLink("Mis compras", "Index", "Compras")
+
+<table class="table text-center col-md-6 container">
+    <tr class="">
+        <th>
+            Nombre
+        </th>
+        <th>
+            Color
+        </th>
+        <th>
+            Precio
+        </th>
+        <th>
+            Stock
+        </th>
+        <th>
+            Cantidad a comprar
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        using (Html.BeginForm("Comprar", "Productos"))
+        {
+            <tr>
+                <td class="align-middle">
+                    @Html.DisplayFor(modelItem => item.nombre)
+                </td>
+                <td class="align-middle">
+                    <label class="btn-sm" style="color:@item.color">■</label>
+                </td>
+                <td class="align-middle">
+                    @Html.DisplayFor(modelItem => item.precio)
+                </td>
+                <td class="align-middle">
+                    @if (item.cantidad > 0)
+                    {<label>✔</label>}
+                    @if (item.cantidad == 0)
+                    {<label>❌</label>}
+                </td>
+                <td>
+                    @if (item.cantidad > 0)
+                    {   
+                    <select name="cantidad">
+                        @for (int i = 1; i <= item.cantidad; i++)
+                        {
+                           <option value="@i">@i</option> 
+                        }
+                    </select>
+                    }
+                </td>
+                <td class="align-middle">
+                    @if (item.cantidad > 0)
+                    {
+                        <button type="submit" name="id" class="btn btn-sm btn-outline-success my-2 my-sm-0" onclick = "notificar()" value="@item.id">Comprar</button>
+                    }
+                </td>
+                <td class="align-middle">
+                    @Html.ActionLink("Ver detalles", "DetailsComun", "Productos", new { id = item.id }, new { @class = "btn btn-sm btn-outline-info my-2 my-sm-0" })
+                </td>
+            </tr>
+        }
+    }
+</table>
+
+
+<script>
+    function notificar() {
+        alert("La compra se ha realizado con éxito");
+    }
+</script>

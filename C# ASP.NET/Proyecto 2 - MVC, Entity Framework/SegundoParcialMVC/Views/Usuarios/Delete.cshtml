@@ -1,0 +1,57 @@
+﻿@model SegundoParcialMVC.Models.Usuario
+
+@{
+    ViewBag.Title = "Eliminar usuario";
+}
+
+<h2>Eliminar usuario</h2>
+
+<h3>¿Está seguro de que desea eliminar este usuario?</h3>
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Nombre
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+
+        <dt>
+            Email
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.email)
+        </dd>
+
+        <dt>
+            Clave
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.clave)
+        </dd>
+
+        <dt>
+            Es administrador
+        </dt>
+
+        <dd>
+            @if (Model.esAdmin == true)
+            {<label>✔</label>}
+            @if (Model.esAdmin == false)
+            {<label>❌</label>}
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-default" /> |
+            @Html.ActionLink("Volver al panel de administador", "Index")
+        </div>
+    }
+</div>

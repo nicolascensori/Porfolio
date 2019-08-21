@@ -1,0 +1,41 @@
+﻿@model SegundoParcialMVC.Models.Compra
+
+@{
+    ViewBag.Title = "Detalles de la compra";
+}
+
+<h2>Detalles de la compra</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Nombre del usuario
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nombre_usuario)
+        </dd>
+
+        <dt>
+            Nombre del producto
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nombre_producto)
+        </dd>
+
+        <dt>
+            Monto de la compra
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.monto)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar compra", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Volver al panel de administrador", "Index")
+</p>

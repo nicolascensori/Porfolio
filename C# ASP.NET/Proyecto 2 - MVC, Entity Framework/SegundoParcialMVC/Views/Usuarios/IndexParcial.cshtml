@@ -1,0 +1,49 @@
+﻿@model IEnumerable<SegundoParcialMVC.Models.Usuario>
+@{
+    Layout = null;
+}
+
+<table class="table text-center small">
+    <tr>
+        <th>
+            Nombre
+        </th>
+        <th>
+            Email
+        </th>
+        <th>
+            Clave
+        </th>
+        <th>
+            Es administrador
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td class="align-middle">
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td class="align-middle">
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td class="align-middle">
+                @Html.DisplayFor(modelItem => item.clave)
+            </td>
+            <td class="align-middle">
+                @if (item.esAdmin == true)
+                {<label>✔</label>}
+                @if (item.esAdmin == false)
+                {<label>❌</label>}
+            </td>
+            <td>
+                @Html.ActionLink("✎", "Edit", new { id = item.id }, new { @title = "Editar" }) |
+                @Html.ActionLink("＋", "Details", new { id = item.id }, new { @title = "Detalles" }) |
+                @Html.ActionLink("✂", "Delete", new { id = item.id }, new { @title = "Eliminar" })
+            </td>
+        </tr>
+    }
+
+</table>

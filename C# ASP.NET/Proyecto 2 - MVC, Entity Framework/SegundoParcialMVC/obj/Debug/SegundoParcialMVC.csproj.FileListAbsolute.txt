@@ -1,0 +1,305 @@
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\ApplicationInsights.config
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\SegundoParcialMVC.dll.config
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\SegundoParcialMVC.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\SegundoParcialMVC.pdb
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csc.exe
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csc.exe.config
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csc.rsp
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csi.exe
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csi.exe.config
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csi.rsp
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Console.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\vbc.exe
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\vbc.exe.config
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\vbc.rsp
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Antlr3.Runtime.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\EntityFramework.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Newtonsoft.Json.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Helpers.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Mvc.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Optimization.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Razor.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\WebGrease.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\EntityFramework.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Helpers.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Mvc.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Optimization.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Razor.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Newtonsoft.Json.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\obj\Debug\SegundoParcialMVC.csprojAssemblyReference.cache
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\obj\Debug\SegundoParcialMVC.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\obj\Debug\SegundoParcialMVC.csproj.CopyComplete
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\obj\Debug\SegundoParcialMVC.dll
+C:\Users\Nick\source\repos\SegundoParcialMVC\SegundoParcialMVC\obj\Debug\SegundoParcialMVC.pdb
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\ApplicationInsights.config
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\SegundoParcialMVC.dll.config
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\SegundoParcialMVC.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\SegundoParcialMVC.pdb
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csc.exe
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csc.exe.config
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csc.rsp
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csi.exe
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csi.exe.config
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csi.rsp
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.AppContext.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Collections.Immutable.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Console.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.Compression.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.FileSystem.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.Pipes.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.AccessControl.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Claims.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.ValueTuple.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Xml.XPath.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\vbc.exe
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\vbc.exe.config
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\vbc.rsp
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\VBCSCompiler.exe
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\VBCSCompiler.exe.config
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Antlr3.Runtime.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\EntityFramework.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\EntityFramework.SqlServer.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.DependencyCollector.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.Web.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.WindowsServer.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.ApplicationInsights.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.Web.Infrastructure.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Newtonsoft.Json.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Helpers.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Mvc.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Optimization.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Razor.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.Deployment.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.Razor.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\WebGrease.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\EntityFramework.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\EntityFramework.SqlServer.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Helpers.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Mvc.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Optimization.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Razor.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.Deployment.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.Razor.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Newtonsoft.Json.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Antlr3.Runtime.pdb
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.DependencyCollector.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.WindowsServer.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.Web.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.Helpers.resources.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.Mvc.resources.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.Optimization.resources.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.Razor.resources.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.WebPages.resources.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\obj\Debug\SegundoParcialMVC.csproj.CoreCompileInputs.cache
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\obj\Debug\SegundoParcialMVC.csproj.CopyComplete
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\obj\Debug\SegundoParcialMVC.dll
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\obj\Debug\SegundoParcialMVC.pdb
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\ApplicationInsights.config
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\SegundoParcialMVC.dll.config
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\SegundoParcialMVC.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\SegundoParcialMVC.pdb
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csc.exe
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csc.exe.config
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csc.rsp
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csi.exe
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csi.exe.config
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\csi.rsp
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Console.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\vbc.exe
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\vbc.exe.config
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\vbc.rsp
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Antlr3.Runtime.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\EntityFramework.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.Web.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Newtonsoft.Json.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Helpers.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Mvc.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Optimization.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Razor.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\WebGrease.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\EntityFramework.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Helpers.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Mvc.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Optimization.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.Razor.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Newtonsoft.Json.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Antlr3.Runtime.pdb
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.AI.Web.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\obj\Debug\SegundoParcialMVC.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\obj\Debug\SegundoParcialMVC.csproj.CopyComplete
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\obj\Debug\SegundoParcialMVC.dll
+C:\Users\Nick\Desktop\SegundoParcialMVC\SegundoParcialMVC\obj\Debug\SegundoParcialMVC.pdb
+F:\Documentos\Educación\UCES\4° cuatrimestre\2 - Programación GUI II\2doParcial\SegundoParcialMVC\SegundoParcialMVC\obj\Debug\SegundoParcialMVC.csprojAssemblyReference.cache

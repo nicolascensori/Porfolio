@@ -1,0 +1,47 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8">
+    <title>Login</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div class="container col-md-4" style="margin-top: 5%;">
+        @using (Html.BeginForm("CheckUsr", "Login"))
+        {
+            <div class="form-group text-center">
+                <img class="mb-4" src="http://www.praxya.com/wp-content/uploads/2016/02/mueble.jpg" alt="" width="110" height="72">
+                <h1 class="h3 mb-3 font-weight-normal">Bienvenido</h1>
+            </div>
+            <div class="form-group">
+                <label for="email">Dirección de email</label>
+                <input type="email" name="email" class="form-control" required autofocus>
+                @if (ViewBag.Error != null) {<label class="text-danger small">@ViewBag.error</label> }
+                
+            </div>
+            <div class="form-group">
+                <label for="clave" class="">Contraseña</label>
+                <input type="password" name="clave" class="form-control" required>
+            </div>
+            <div class="checkbox mb-3">
+                
+                <label>@Html.CheckBox("recordarmeChk", false) Recordar mi cuenta</label>
+            </div>
+            <div>
+                <button class="btn col-md-4" type="submit" style="background-color: #CA7920; color: white; width: 40%;" type="submit">Ingresar</button>
+                <span class="float-right" style="margin-top: 8px;">Si no tiene cuenta, por favor @Html.ActionLink("regístrese", "RegistrarUsuario", "Usuarios").</span>
+            </div>
+        }
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+</body>
+</html>

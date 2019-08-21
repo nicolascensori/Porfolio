@@ -1,0 +1,41 @@
+﻿@model IEnumerable<SegundoParcialMVC.Models.Compra>
+
+@{
+    Layout = null;
+}
+
+<table class="table text-center small">
+    <tr>
+        <th>
+           Nombre del usuario
+        </th>
+        <th>
+           Nombre del producto
+        </th>
+        <th>
+            Monto de la compra
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td class="align-middle">
+                @Html.DisplayFor(modelItem => item.nombre_usuario)
+            </td>
+            <td class="align-middle">
+                @Html.DisplayFor(modelItem => item.nombre_producto)
+            </td>
+            <td class="align-middle">
+                @Html.DisplayFor(modelItem => item.monto)
+            </td>
+            <td class="align-middle">
+                @Html.ActionLink("✎", "Edit", new { id = item.id }, new { @title = "Editar" }) |
+                @Html.ActionLink("＋", "Details", new { id = item.id }, new { @title = "Detalles" }) |
+                @Html.ActionLink("✂", "Delete", new { id = item.id }, new { @title = "Eliminar" })
+            </td>
+        </tr>
+    }
+
+</table>

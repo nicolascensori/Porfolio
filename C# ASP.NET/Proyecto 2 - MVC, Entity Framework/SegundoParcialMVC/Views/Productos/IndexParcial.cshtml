@@ -1,0 +1,49 @@
+﻿@model IEnumerable<SegundoParcialMVC.Models.Producto>
+@{
+    Layout = null;
+}
+<p>
+    @Html.ActionLink("Agregar producto", "Create")
+</p>
+<table class="table text-center small">
+    <tr>
+        <th>
+            Nombre
+        </th>
+        <th>
+            Color
+        </th>
+        <th>
+            Precio
+        </th>
+        <th>
+           Cantidad
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td class="align-middle">
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td class="align-middle">
+                <label class="btn-sm" style="color:@item.color">■</label>
+            </td>
+            <td class="align-middle">
+               $@Html.DisplayFor(modelItem => item.precio)
+            </td>
+            <td class="align-middle">
+                @Html.DisplayFor(modelItem => item.cantidad)
+            </td>
+            <td>
+                
+                @Html.ActionLink("✎", "Edit", new { id = item.id }, new { @title = "Editar" }) |
+                @Html.ActionLink("＋", "Details", new { id = item.id }, new { @title = "Detalles" }) |
+                @Html.ActionLink("✂", "Delete", new { id = item.id }, new { @title = "Eliminar" })
+            </td>
+        </tr>
+    }
+
+</table>

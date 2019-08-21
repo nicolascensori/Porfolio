@@ -1,0 +1,53 @@
+﻿@model SegundoParcialMVC.Models.Usuario
+
+@{
+    ViewBag.Title = "Detalles del usuario";
+}
+
+<h2>Detalles del usuario</h2>
+
+<div>
+    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Nombre
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nombre)
+        </dd>
+
+        <dt>
+            Email
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.email)
+        </dd>
+
+        <dt>
+            Clave
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.clave)
+        </dd>
+
+        <dt>
+            Es administrador
+        </dt>
+
+        <dd>
+            @if (Model.esAdmin == true)
+            {<label>✔</label>}
+            @if (Model.esAdmin == false)
+            {<label>❌</label>}
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Editar", "Edit", new { id = Model.id }) |
+    @Html.ActionLink("Volver al panel de administrador", "Index")
+</p>
